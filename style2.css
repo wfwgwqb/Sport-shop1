@@ -1,0 +1,50 @@
+body{
+   background:linear-gradient(to right, #1e3c72, #2a5298);
+    
+}
+
+.main{
+  background: linear-gradient(to right, #1c3e72, #2a5298);
+  padding: 30px;
+  text-align: center;
+}
+.main h1{
+    color:#ffd700;
+    
+}
+
+.main h2{
+  color: white;
+  margin-bottom: 20px;
+}
+
+.main p{
+  color:#ffd700 ;
+  margin-bottom: 15px;
+}
+nav{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.nav-link {
+    color: white;
+    text-decoration: none; 
+    font-weight: bold;
+}
+
+.nav-link:hover {
+    color: #ffd700;
+}
+
+.footer{
+  background: linear-gradient(to right, #1c3e72, #2a5298);
+  padding: 20px;
+  text-align: center;
+}
+
+.footer p{
+  color: white;
+  margin: 5px 0;
+}
