@@ -1,0 +1,26 @@
+body{
+  background:linear-gradient(to right, #1e3c72, #2a5298);
+    
+}
+.header{
+   color:#ffd700;  
+    text-align: center;
+}
+.nav{
+   display:flex; 
+   justify-content: center;
+    gap:20px;
+}
+.nav-link{
+    text-decoration: none;
+    color: #ffd700;
+}
+.main{
+   margin-top: 20px; 
+    color:#ffd700;
+}
+.footer{
+    color:#ffd700;
+    text-align:center;
+    margin-top:20px;
+}
